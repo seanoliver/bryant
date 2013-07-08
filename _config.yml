@@ -7,13 +7,13 @@ rdiscount:
   extensions: [smart]
 
 # User Options
-name: Bryant
+name: Sean Oliver
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'A Jekyll theme for long-form writings, essays and beautiful photography.'
-email: 
-twitter: 
-icon_url: 
-disqus_shortname: 
+description: 'Stories about products and personal betterment.'
+email: sean@seanoliver.me
+twitter: seanoliver
+icon_url: /images/profile.jpeg
+disqus_shortname: seanoliver
 
 # Color Options
 text_color: '#444444'
@@ -36,15 +36,15 @@ post_background:
 footer_title: 
 footer_description: 
 social_links_title: 
-github_url: 
+github_url: https://github.com/seanoliver
 flickr_url: 
-instagram_url: 
+instagram_url: http://instagram.com/soliver87
 vimeo_url: 
-facebook_url: 
+facebook_url: https://www.facebook.com/seane
 google_plus_url: 
 pinterest_url: 
 tumblr_url: 
-linkedin_url: 
+linkedin_url: www.linkedin.com/in/soliver87
 dribbble_url: 
 lastfm_url: 
 rdio_url: 
