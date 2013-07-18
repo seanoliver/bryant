@@ -5,6 +5,8 @@ category: posts
 type: text
 ---
 
+The original title for this article was "WHy Marketers May Actually Love Gmail's New Inbox." Besides being too long, this is just completely innacurate.
+
 The more I talk to people about [Gmail's new inbox](http://www.huffingtonpost.com/2013/05/29/new-gmail-inbox-gmail-changes_n_3353451.html), the more I hear reasons why marketers [should be freaking out](http://www.technologyreview.com/view/515716/marketers-must-hate-gmails-new-people-focused-inbox/) about their open rates. "No one will ever open the 'Notifications' or 'Promotions' tab," they say. "Everyone with an @gmail.com domain is basically dead to us now."
 
 And it makes sense. All of users' marketing emails are essentially forwarded to a folder, and we all know what happens to an email when it gets forwarded to a folder (read: nothing).
